@@ -47,7 +47,6 @@ The application visualizes:
 
 ### 📷 Sample Outputs
 
-> Add your screenshots inside an `images/` folder and update paths below
 
 ![Interpolation Plot](image/interpolation_plot.png)
 
