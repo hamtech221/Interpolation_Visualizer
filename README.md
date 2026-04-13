@@ -49,7 +49,7 @@ The application visualizes:
 
 > Add your screenshots inside an `images/` folder and update paths below
 
-![Interpolation Plot](images/interpolation_plot.png)
+![Interpolation Plot](image/interpolation_plot.png)
 
 ---
 
