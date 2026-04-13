@@ -73,7 +73,7 @@ The application visualizes:
 3. Run the script:
 
    ```bash
-   python main.py
+   project.py
    ```
 4. Load a CSV file with at least two columns (x, y) or choose the file given here. You can modify the values according to your needs.
 5. Select an interpolation method and click **Plot**
